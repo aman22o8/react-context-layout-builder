@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.body_container {
+  display: flex;
+  height: 300px;
+}
+.leftnavbar_container {
+  padding: 20px;
+  width: 185px;
+  background-color: #cbd5e1;
+}
+.list_items_main {
+  list-style-type: none;
+}
+.body_heading {
+  font-size: 18px;
+  color: #64748b;
+}
+.list_items_heading {
+  font-size: 15px;
+  color: #64748b;
+}
+.middle {
+  width: 370px;
+  padding: 20px;
+  background-color: #f1f5f9;
+}
+.rightnavbar_container {
+  padding: 20px;
+  width: 185px;
+  background-color: #cbd5e1;
+}
+.addbar {
+  border: 1px solid #64748b;
+  height: 90px;
+  width: 90px;
+  margin: 10px;
+  text-align: center;
+}
+.action {
+  visibility: hidden;
+}

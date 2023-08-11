@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.configuration_container {
+  background-color: #475569;
+  padding: 10px;
+}
+.confriguation_heading {
+  text-align: center;
+  font-size: 35px;
+  font-family: 'roboto';
+  color: #f1f5f9;
+}
+.list_container {
+  margin-left: 0px;
+  padding-left: 0px;
+  list-style-type: none;
+}
+.each_list {
+  display: flex;
+  align-items: center;
+}
+.list_heading {
+  margin-left: 10px;
+  font-size: 20px;
+  font-family: 'roboto';
+  color: #f1f5f9;
+}

@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.layout_container {
+  margin: 20px;
+  padding: 30px;
+  width: 740px;
+}
+.header_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  background-color: #e2e8f0;
+}
+.heading {
+  font-size: 25px;
+  font-weight: 500;
+  color: #475569;
+}
